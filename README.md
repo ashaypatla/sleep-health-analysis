@@ -40,7 +40,7 @@ next-day cognitive performance using regression models.
 |---|---|
 | `eda.ipynb` | Exploratory data analysis |
 | `classification.ipynb` | Classification models and evaluation |
-| `regression.ipynb` | Regression models and evaluation |
+| `Regression.ipynb` | Regression models and evaluation |
 | `sleep_health_dataset.csv` | Dataset |
 
 ---

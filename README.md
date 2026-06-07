@@ -47,10 +47,10 @@ next-day cognitive performance using regression models.
 
 ## Requirements
 
-pandas
-numpy
-scikit-learn
-imbalanced-learn
-category_encoders
-matplotlib
-seaborn
+- pandas
+- numpy
+- scikit-learn
+- imbalanced-learn
+- category_encoders
+- matplotlib
+- seaborn

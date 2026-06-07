@@ -54,3 +54,4 @@ next-day cognitive performance using regression models.
 - category_encoders
 - matplotlib
 - seaborn
+- xgboost

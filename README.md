@@ -1,4 +1,5 @@
 # Sleep Health Analysis — DSCI 631 Project
+Ashay Patla (aap423) & Luke Ricciardi (lrr43)
 
 ## Dataset
 This project uses a synthetic sleep health dataset of 100,000 records designed for comprehensive sleep health analysis. Each record represents a unique 
